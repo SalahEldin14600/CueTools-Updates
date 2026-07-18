@@ -1,0 +1,12 @@
+{
+  "product": "CueTools",
+  "displayName": "CUE+ for Revit",
+  "channel": "beta",
+  "version": "0.9.0-beta.7",
+  "revitVersion": "2022",
+  "fileName": "CueTools-Setup-0.9.0-beta.7.exe",
+  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.7/CueTools-Setup-0.9.0-beta.7.exe",
+  "sha256": "9019c2376004c3c40f1fd85c1ba89e5e276e5e73660fe178457adfd5a8d626dd",
+  "publishedAtUtc": "2026-07-18T23:20:05.9068962Z",
+  "releaseNotes": "End-to-end hands-off update pilot. Advanced feed controls are hidden for ordinary users and are available only when the local administrator flag exists."
+}

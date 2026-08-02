@@ -2,11 +2,11 @@
     "product":  "CueTools",
     "displayName":  "CUE+ for Revit",
     "channel":  "beta",
-    "version":  "0.9.0-beta.9",
+    "version":  "0.9.0-beta.10",
     "revitVersion":  "2022",
-    "fileName":  "CueTools-Setup-0.9.0-beta.9.exe",
-    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.9/CueTools-Setup-0.9.0-beta.9.exe",
-    "sha256":  "538a9b4d7da06f3ffa59bb813218f9594192ac0c5f40571d038999c8b451849b",
-    "publishedAtUtc":  "2026-07-21T21:08:38.3097869Z",
-    "releaseNotes":  "Detach Adaptives now supports Structural Framing hosted by or nested within masses/forms, including face-based orientation, driven instance parameters, and multi-select family/type scope."
+    "fileName":  "CueTools-Setup-0.9.0-beta.10.exe",
+    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.10/CueTools-Setup-0.9.0-beta.10.exe",
+    "sha256":  "45cae0aa9174c2c524cf3176893f6577d29c335a179466e0dcfaf4503a6f8952",
+    "publishedAtUtc":  "2026-08-02T18:55:06.1427588Z",
+    "releaseNotes":  "Expanded Facade workflows: adaptive-panel orientation, portable Frame Sets and instance overrides, safer modeless Adjust Members with multi-point panels, Measure 3D, and universal irregular-panel Window contracts."
 }

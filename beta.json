@@ -1,12 +1,12 @@
-{
+﻿{
     "product":  "CueTools",
     "displayName":  "CUE+ for Revit",
     "channel":  "beta",
-    "version":  "0.9.0-beta.11",
+    "version":  "0.9.0-beta.12",
     "revitVersion":  "2022",
-    "fileName":  "CueTools-Setup-0.9.0-beta.11.exe",
-    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.11/CueTools-Setup-0.9.0-beta.11.exe",
-    "sha256":  "40d7c18c8702783b0634fafdda8e0e7d251bf6a56737d7d3702a92381bdcf4e8",
-    "publishedAtUtc":  "2026-08-03T20:34:36.4340603Z",
-    "releaseNotes":  "Scan Panels adds per-family insertion origins, explicit universal or straight-top trapezoid routing, and centered triangle Width/Height placement."
+    "fileName":  "CueTools-Setup-0.9.0-beta.12.exe",
+    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.12/CueTools-Setup-0.9.0-beta.12.exe",
+    "sha256":  "f0ce4a19658ce7a2cffb44295cedd4864f479aecfafe85ead9eb3dc59bf3953c",
+    "publishedAtUtc":  "2026-08-09T14:45:47.7242138Z",
+    "releaseNotes":  "Adds Validator accepted findings, Revit Category sync, Asset Tag sync, Asset Sequence, Parameter Preset fixes, selective material fixes, naming improvements, and Facade workflow refinements."
 }

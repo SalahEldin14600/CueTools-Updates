@@ -2,11 +2,11 @@
     "product":  "CueTools",
     "displayName":  "CUE+ for Revit",
     "channel":  "beta",
-    "version":  "0.9.0-beta.12",
+    "version":  "0.9.0-beta.13",
     "revitVersion":  "2022",
-    "fileName":  "CueTools-Setup-0.9.0-beta.12.exe",
-    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.12/CueTools-Setup-0.9.0-beta.12.exe",
-    "sha256":  "f0ce4a19658ce7a2cffb44295cedd4864f479aecfafe85ead9eb3dc59bf3953c",
-    "publishedAtUtc":  "2026-08-09T14:45:47.7242138Z",
-    "releaseNotes":  "Adds Validator accepted findings, Revit Category sync, Asset Tag sync, Asset Sequence, Parameter Preset fixes, selective material fixes, naming improvements, and Facade workflow refinements."
+    "fileName":  "CueTools-Setup-0.9.0-beta.13.exe",
+    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.13/CueTools-Setup-0.9.0-beta.13.exe",
+    "sha256":  "2777c328ca7c300bd8aeeddb546163d21eaeb23944dba89f9c715d88e5676c59",
+    "publishedAtUtc":  "2026-08-09T21:26:35.0938362Z",
+    "releaseNotes":  "Adds named project-embedded Scan Panels setup presets and edge-aware triangle clearances for irregular-panel placement."
 }

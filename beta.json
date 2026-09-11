@@ -2,11 +2,17 @@
     "product":  "CueTools",
     "displayName":  "CUE+ for Revit",
     "channel":  "beta",
-    "version":  "0.9.0-beta.16",
+    "version":  "0.9.0-beta.17",
     "revitVersion":  "2022",
-    "fileName":  "CueTools-Setup-0.9.0-beta.16.exe",
-    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.16/CueTools-Setup-0.9.0-beta.16.exe",
-    "sha256":  "4f33e28ee4881bf4554117da963bc0cdbbd25440af401f413fb13a68e90ebebc",
-    "publishedAtUtc":  "2026-09-11T07:04:07.1929523Z",
-    "releaseNotes":  "One Revit 2022 installer now includes the N1 suite and Arch Package 0.1.0.25: Auto Dimension Floor Plan, Dimension Walls and Openings, and Wall Types. Also includes Links by Site, Site Management, Validator, Facade tools and SketchUp MVP."
+    "revitVersions":  [
+                          "2022",
+                          "2023",
+                          "2024",
+                          "2025"
+                      ],
+    "fileName":  "CueTools-Setup-0.9.0-beta.17.exe",
+    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.17/CueTools-Setup-0.9.0-beta.17.exe",
+    "sha256":  "9d4697c066e61947619b207aabbccda7adf6dd69a51aa7ffff37240c2d234324",
+    "publishedAtUtc":  "2026-09-11T08:35:59.9950568Z",
+    "releaseNotes":  "One installer for Revit 2022, 2023, 2024 and 2025. Includes all N1 modules and Arch Package dimensions and Wall Types, version-specific registrations and updates, and 64-bit element ID compatibility."
 }

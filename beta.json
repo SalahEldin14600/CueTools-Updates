@@ -1,18 +1,18 @@
 {
-    "product":  "CueTools",
-    "displayName":  "CUE+ for Revit",
-    "channel":  "beta",
-    "version":  "0.9.0-beta.17",
-    "revitVersion":  "2022",
-    "revitVersions":  [
-                          "2022",
-                          "2023",
-                          "2024",
-                          "2025"
-                      ],
-    "fileName":  "CueTools-Setup-0.9.0-beta.17.exe",
-    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.17/CueTools-Setup-0.9.0-beta.17.exe",
-    "sha256":  "9d4697c066e61947619b207aabbccda7adf6dd69a51aa7ffff37240c2d234324",
-    "publishedAtUtc":  "2026-09-11T08:35:59.9950568Z",
-    "releaseNotes":  "One installer for Revit 2022, 2023, 2024 and 2025. Includes all N1 modules and Arch Package dimensions and Wall Types, version-specific registrations and updates, and 64-bit element ID compatibility."
+  "product": "CueTools",
+  "displayName": "CUE+ for Revit",
+  "channel": "beta",
+  "version": "0.9.0-beta.22",
+  "revitVersion": "2022",
+  "revitVersions": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "fileName": "CueTools-Setup-0.9.0-beta.22.exe",
+  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.22/CueTools-Setup-0.9.0-beta.22.exe",
+  "sha256": "4317dc0397b2095ffcd39421c9342e147e47778b79acd0615be90a178a1c1c18",
+  "publishedAtUtc": "2026-09-12T06:59:34.5729509Z",
+  "releaseNotes": "Combined N1 and Arch suite for Revit 2022–2025. Family Category: modeless two-step category change and parameter sync, Height/Width restoration, resizable panels and searchable failure reports."
 }

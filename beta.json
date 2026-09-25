@@ -2,7 +2,7 @@
   "product": "CueTools",
   "displayName": "CUE+ for Revit",
   "channel": "beta",
-  "version": "0.9.0-beta.22",
+  "version": "0.9.0-beta.36",
   "revitVersion": "2022",
   "revitVersions": [
     "2022",
@@ -10,9 +10,9 @@
     "2024",
     "2025"
   ],
-  "fileName": "CueTools-Setup-0.9.0-beta.22.exe",
-  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.22/CueTools-Setup-0.9.0-beta.22.exe",
-  "sha256": "4317dc0397b2095ffcd39421c9342e147e47778b79acd0615be90a178a1c1c18",
-  "publishedAtUtc": "2026-09-12T06:59:34.5729509Z",
-  "releaseNotes": "Combined N1 and Arch suite for Revit 2022–2025. Family Category: modeless two-step category change and parameter sync, Height/Width restoration, resizable panels and searchable failure reports."
+  "fileName": "CueTools-Setup-0.9.0-beta.36.exe",
+  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.36/CueTools-Setup-0.9.0-beta.36.exe",
+  "sha256": "c415e697bec142f3ffc9f4fc0b2785a7870aae7bffb0f5dcde4b724b306f6698",
+  "publishedAtUtc": "2026-09-25T19:21:00.0633138Z",
+  "releaseNotes": "Family Renamer with reusable profiles, family/type previews, keyword replacements, sequence numbering, grouped checkbox selection, and refresh after each batch. Includes accumulated Validator improvements since beta.22."
 }

@@ -2,13 +2,13 @@
 
 Public installers and update feeds for CUE+ for Revit. Application source is maintained in the private N1-Tools repository.
 
-## Current full CUE+ installer: 0.9.0-beta.37
+## Current full CUE+ installer: 0.9.0-beta.38
 
 Supports Autodesk Revit **2022, 2023, 2024 and 2025** on 64-bit Windows.
 
-**[Download the full CUE+ beta.37 installer](https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.37/CueTools-Setup-0.9.0-beta.37.exe)**
+**[Download the full CUE+ beta.38 installer](https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.38/CueTools-Setup-0.9.0-beta.38.exe)**
 
-[Release notes and assets](https://github.com/SalahEldin14600/CueTools-Updates/releases/tag/v0.9.0-beta.37)
+[Release notes and assets](https://github.com/SalahEldin14600/CueTools-Updates/releases/tag/v0.9.0-beta.38)
 
 The combined installer includes the CUE+ tools, Family Renamer and the bundled Arch package. Close every Revit session before running setup. Administrator rights and a GitHub login are not required. Select the Revit versions you want to update.
 
@@ -30,10 +30,10 @@ CUE+ also checks the configured feed automatically. It never forces Revit to clo
 
 ## Installer verification
 
-SHA-256 for `CueTools-Setup-0.9.0-beta.37.exe`:
+SHA-256 for `CueTools-Setup-0.9.0-beta.38.exe`:
 
 ```text
-bace1579b542cf015bb9f003997d690ed7598541200f0fbdc918210dff3c6377
+a598dc5838178d7eb2cefd700793d91507a9dd2e88551f63f18f824b821a92ad
 ```
 
-CUE+ verifies the installer checksum before scheduling installation. Module builds for all four supported Revit versions, 113 Family Renamer/navigation checks and installer compilation passed; live feature acceptance remains pending.
+CUE+ verifies the installer checksum before scheduling installation. Module builds for all four supported Revit versions, 121 Family Renamer/navigation checks and installer compilation passed; live feature acceptance remains pending.

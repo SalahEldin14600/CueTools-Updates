@@ -2,7 +2,7 @@
   "product": "CueTools",
   "displayName": "CUE+ for Revit",
   "channel": "beta",
-  "version": "0.9.0-beta.37",
+  "version": "0.9.0-beta.38",
   "revitVersion": "2022",
   "revitVersions": [
     "2022",
@@ -10,9 +10,9 @@
     "2024",
     "2025"
   ],
-  "fileName": "CueTools-Setup-0.9.0-beta.37.exe",
-  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.37/CueTools-Setup-0.9.0-beta.37.exe",
-  "sha256": "bace1579b542cf015bb9f003997d690ed7598541200f0fbdc918210dff3c6377",
-  "publishedAtUtc": "2026-09-27T14:05:58.3424466Z",
-  "releaseNotes": "Fix Family Renamer sequence and selection controls hidden by the settings scroll area. Actions now stay visible above the table."
+  "fileName": "CueTools-Setup-0.9.0-beta.38.exe",
+  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.38/CueTools-Setup-0.9.0-beta.38.exe",
+  "sha256": "a598dc5838178d7eb2cefd700793d91507a9dd2e88551f63f18f824b821a92ad",
+  "publishedAtUtc": "2026-09-27T14:18:00.1600145Z",
+  "releaseNotes": "Family Renamer direct Apply, clearer progress and simplified controls; correct Validator close event cleanup."
 }

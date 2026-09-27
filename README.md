@@ -1,43 +1,39 @@
 # CUE+ for Revit Updates
 
-Public update distribution for CUE+ for Autodesk Revit 2022.
+Public installers and update feeds for CUE+ for Revit. Application source is maintained in the private N1-Tools repository.
 
-This repository contains update manifests and compiled installer releases only.
-The application source code is maintained separately in a private repository.
+## Current full CUE+ installer: 0.9.0-beta.36
 
-## Channels
+Supports Autodesk Revit **2022, 2023, 2024 and 2025** on 64-bit Windows.
 
-- `beta.json` — pilot releases for testing before team rollout.
-- `stable.json` — production releases for general team use. This feed will be
-  published with the first approved stable release.
+**[Download the full CUE+ beta.36 installer](https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.36/CueTools-Setup-0.9.0-beta.36.exe)**
 
-Installers are attached to versioned GitHub Releases. CUE+ verifies every
-download against the SHA-256 value in its channel manifest before scheduling an
-installation.
+[Release notes and assets](https://github.com/SalahEldin14600/CueTools-Updates/releases/tag/v0.9.0-beta.36)
 
-## Current beta pilot
+The combined installer includes the CUE+ tools, Family Renamer and the bundled Arch package. Close every Revit session before running setup. Administrator rights and a GitHub login are not required. Select the Revit versions you want to update.
 
-The current invited-pilot release is
-[`0.9.0-beta.8`](https://github.com/SalahEldin14600/CueTools-Updates/releases/tag/v0.9.0-beta.8)
-for Autodesk Revit 2022 on 64-bit Windows.
+CUE+ beta releases are marked **Pre-release**. GitHub's generic **Latest** link currently points to the separately versioned **Arch package**, not the full CUE+ installer. Use the full-installer link above.
 
-### First installation
+## Updating an existing installation
 
-1. Close every Revit session.
-2. Download `CueTools-Setup-0.9.0-beta.8.exe` from the beta.8 release.
-3. Run the installer. Administrator credentials are not required.
-4. Open Revit 2022.
-5. If Revit displays the unsigned add-in warning, choose **Always Load** once.
-6. Use the tools from the **CUE+** ribbon tab.
+1. In Revit, open **CUE+ > Manage > Update CUE+ > Check Now**.
+2. Allow the update to download and verify.
+3. Save your work and close all Revit sessions normally.
+4. Reopen Revit after installation finishes.
 
-After the first installation, CUE+ checks the beta feed automatically. Verified
-updates are prepared silently and install after every Revit session closes
-normally. CUE+ never forces Revit to close.
+CUE+ also checks the configured feed automatically. It never forces Revit to close.
 
-### Verification
+## Update channels
 
-The beta.8 installer SHA-256 is:
+- [beta.json](https://raw.githubusercontent.com/SalahEldin14600/CueTools-Updates/main/beta.json) is the authoritative current beta update feed.
+- A stable feed will be published when a stable release is approved.
+
+## Installer verification
+
+SHA-256 for `CueTools-Setup-0.9.0-beta.36.exe`:
 
 ```text
-5ffffd219bd1d28ce930ebde48b38b6d025bc3cd99b0443480defeee0d8405c8
+c415e697bec142f3ffc9f4fc0b2785a7870aae7bffb0f5dcde4b724b306f6698
 ```
+
+CUE+ verifies the installer checksum before scheduling installation. Module builds for all four supported Revit versions, 91 Family Renamer/navigation checks and installer compilation passed; live feature acceptance remains pending.

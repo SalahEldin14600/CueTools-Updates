@@ -2,7 +2,7 @@
   "product": "CueTools",
   "displayName": "CUE+ for Revit",
   "channel": "beta",
-  "version": "0.9.0-beta.39",
+  "version": "0.9.0-beta.40",
   "revitVersion": "2022",
   "revitVersions": [
     "2022",
@@ -10,9 +10,9 @@
     "2024",
     "2025"
   ],
-  "fileName": "CueTools-Setup-0.9.0-beta.39.exe",
-  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.39/CueTools-Setup-0.9.0-beta.39.exe",
-  "sha256": "3007223223374c0e3746281c02739b02da9b5d164ee3d31a04f97e60bc7092ae",
-  "publishedAtUtc": "2026-09-29T19:19:36.1552487Z",
-  "releaseNotes": "Fix silent Apply failure in Asset Tag and Revit Category with saved Validator profiles; visible operation errors and commit verification."
+  "fileName": "CueTools-Setup-0.9.0-beta.40.exe",
+  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.40/CueTools-Setup-0.9.0-beta.40.exe",
+  "sha256": "91e3f14148025c1cecd2f8291663647fb8c077d664c8e9b3efd6b0c5ae29ea64",
+  "publishedAtUtc": "2026-09-29T19:34:27.2380852Z",
+  "releaseNotes": "Restore Revit focus after closing Asset Tag or Revit Category; retain confirmed Apply fixes."
 }

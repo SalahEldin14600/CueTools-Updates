@@ -1,7 +1,7 @@
 {
     "schemaVersion":  1,
     "edition":  "arch-package",
-    "version":  "0.1.0.25",
+    "version":  "0.1.0.26",
     "commonVersion":  "1.0.0",
     "supportedRevitVersions":  [
                                    "2022",
@@ -9,8 +9,8 @@
                                    "2024",
                                    "2025"
                                ],
-    "fileName":  "CueTools-ArchPackage-Setup-0.1.0.25.exe",
-    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/arch-package-v0.1.0.25/CueTools-ArchPackage-Setup-0.1.0.25.exe",
-    "sha256":  "8f396a766132e0be3ce71d4c16330a9de36cca9bd3637098157f014239b00c37",
-    "releaseNotesUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/tag/arch-package-v0.1.0.25"
+    "fileName":  "CueTools-ArchPackage-Setup-0.1.0.26.exe",
+    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/arch-package-v0.1.0.26/CueTools-ArchPackage-Setup-0.1.0.26.exe",
+    "sha256":  "827d742a550e587d9383fee4ab0c72750d2323a67682fabda4d5de2677b96e5c",
+    "releaseNotesUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/tag/arch-package-v0.1.0.26"
 }

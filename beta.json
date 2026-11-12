@@ -2,7 +2,7 @@
   "product": "CueTools",
   "displayName": "CUE+ for Revit",
   "channel": "beta",
-  "version": "0.9.0-beta.44",
+  "version": "0.9.0-beta.45",
   "revitVersion": "2022",
   "revitVersions": [
     "2022",
@@ -10,9 +10,9 @@
     "2024",
     "2025"
   ],
-  "fileName": "CueTools-Setup-0.9.0-beta.44.exe",
-  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.44/CueTools-Setup-0.9.0-beta.44.exe",
-  "sha256": "68d57408f1b272fe0431d8e5a11f5025808dc8606a7dd02da53cb8b1fbb736d8",
-  "publishedAtUtc": "2026-10-11T19:46:46.1794694Z",
-  "releaseNotes": "Freeze Adaptives loadable families/category choice; compact Facade; Family Imports; Model Size Audit; scoped Missing QIC Values; Parameters Manager and typed URL/scalar migration. Beta: Manufacturer Apply failure and Parameters Manager layout issues remain under investigation; test migration on a project copy."
+  "fileName": "CueTools-Setup-0.9.0-beta.45.exe",
+  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.45/CueTools-Setup-0.9.0-beta.45.exe",
+  "sha256": "129345f07076e091942533405abe1d06d910c69521f17c42f10b3949e9db0324",
+  "publishedAtUtc": "2026-11-12T14:45:23.0291123Z",
+  "releaseNotes": "Includes Cue+ Arch 0.1.0.26: preserve existing wall colours; propose only missing groups; Active View/Whole Project colour scope; colour-map import/export. Use the same Update CUE+ button and one CUE+ installer for Revit 2022-2025. Other modules retained from beta.44. Live Revit acceptance remains pending."
 }

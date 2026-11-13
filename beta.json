@@ -2,7 +2,7 @@
   "product": "CueTools",
   "displayName": "CUE+ for Revit",
   "channel": "beta",
-  "version": "0.9.0-beta.45",
+  "version": "0.9.0-beta.46",
   "revitVersion": "2022",
   "revitVersions": [
     "2022",
@@ -10,9 +10,9 @@
     "2024",
     "2025"
   ],
-  "fileName": "CueTools-Setup-0.9.0-beta.45.exe",
-  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.45/CueTools-Setup-0.9.0-beta.45.exe",
-  "sha256": "129345f07076e091942533405abe1d06d910c69521f17c42f10b3949e9db0324",
-  "publishedAtUtc": "2026-11-12T14:45:23.0291123Z",
-  "releaseNotes": "Includes Cue+ Arch 0.1.0.26: preserve existing wall colours; propose only missing groups; Active View/Whole Project colour scope; colour-map import/export. Use the same Update CUE+ button and one CUE+ installer for Revit 2022-2025. Other modules retained from beta.44. Live Revit acceptance remains pending."
+  "fileName": "CueTools-Setup-0.9.0-beta.46.exe",
+  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.46/CueTools-Setup-0.9.0-beta.46.exe",
+  "sha256": "aed596aa778cadb72a07d37c74a85c6a4fda8bf48848c4406dcdab91643abad6",
+  "publishedAtUtc": "2026-11-13T13:30:52.7539997Z",
+  "releaseNotes": "Repairs updater acknowledgement and diagnostics, combines pending requests, waits safely for every Revit session and verifies installed DLL versions. Includes compiled Arch 0.1.0.26; other modules retained from beta.45. Machines stuck on beta.44/45 may need the same combined installer once; see release recovery steps. Affected-machine acceptance is pending."
 }

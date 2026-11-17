@@ -2,7 +2,7 @@
   "product": "CueTools",
   "displayName": "CUE+ for Revit",
   "channel": "beta",
-  "version": "0.9.0-beta.46",
+  "version": "0.9.0-beta.47",
   "revitVersion": "2022",
   "revitVersions": [
     "2022",
@@ -10,9 +10,9 @@
     "2024",
     "2025"
   ],
-  "fileName": "CueTools-Setup-0.9.0-beta.46.exe",
-  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.46/CueTools-Setup-0.9.0-beta.46.exe",
-  "sha256": "aed596aa778cadb72a07d37c74a85c6a4fda8bf48848c4406dcdab91643abad6",
-  "publishedAtUtc": "2026-11-13T13:30:52.7539997Z",
-  "releaseNotes": "Repairs updater acknowledgement and diagnostics, combines pending requests, waits safely for every Revit session and verifies installed DLL versions. Includes compiled Arch 0.1.0.26; other modules retained from beta.45. Machines stuck on beta.44/45 may need the same combined installer once; see release recovery steps. Affected-machine acceptance is pending."
+  "fileName": "CueTools-Setup-0.9.0-beta.47.exe",
+  "downloadUrl": "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.47/CueTools-Setup-0.9.0-beta.47.exe",
+  "sha256": "03826c3868bc8799f28f39dccc133bc346285b7b15c40554041246a76f2382b5",
+  "publishedAtUtc": "2026-11-17T13:12:01.3026025Z",
+  "releaseNotes": "Fixes Wall Types failing to open with an unset colour in Active View mode. Includes Arch 0.1.0.27 in the same combined CUE+ installer for Revit 2022-2025. Existing colours are preserved; other modules retained from beta.46. Save and close every Revit session normally to install, including background sessions. Live acceptance remains pending."
 }

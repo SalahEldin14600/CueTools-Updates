@@ -2,7 +2,7 @@
     "product":  "CueTools",
     "displayName":  "CUE+ for Revit",
     "channel":  "beta",
-    "version":  "0.9.0-beta.49",
+    "version":  "0.9.0-beta.50",
     "revitVersion":  "2022",
     "revitVersions":  [
                           "2022",
@@ -10,9 +10,9 @@
                           "2024",
                           "2025"
                       ],
-    "fileName":  "CueTools-Setup-0.9.0-beta.49.exe",
-    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.49/CueTools-Setup-0.9.0-beta.49.exe",
-    "sha256":  "eda958ed364e92c2eee7948cb95543ab3734cf5caafe2fc745ef6628e0fd7f7f",
-    "publishedAtUtc":  "2026-11-17T17:07:13.2000880Z",
-    "releaseNotes":  "Wall Types: save complete wall-type records and match profiles by Type Mark, Type Name or Description across projects; resolve conflicting colours explicitly. Editor Save Profile persists values separately from Preview. The checked apply review now creates missing assignments in the current view or controlling template. Includes Arch 0.1.0.29 in one combined installer; unrelated module binaries retained from beta.48. Multi-view picker deferred. Save and close all Revit sessions normally before installation. Native model acceptance remains pending."
+    "fileName":  "CueTools-Setup-0.9.0-beta.50.exe",
+    "downloadUrl":  "https://github.com/SalahEldin14600/CueTools-Updates/releases/download/v0.9.0-beta.50/CueTools-Setup-0.9.0-beta.50.exe",
+    "sha256":  "905cd7dd81908bbe64bf4568ac5b976a59acae844ee215dac4ddfd23ecdd2890",
+    "publishedAtUtc":  "2026-11-17T18:31:20.5090801Z",
+    "releaseNotes":  "Wall Types Preview is active directly from selected/imported profiles. Current and new colours, current/profile wall values, editable proposals and Parameter Presets-style status colours appear in the same window, followed by Apply checked or Discard. Wall identity values identify matches only and are not copied. Includes Arch 0.1.0.30 in one combined installer; unrelated binaries retained from beta.49. Native Revit apply/cancel/Undo acceptance pending. Save and close all Revit sessions before installing."
 }
